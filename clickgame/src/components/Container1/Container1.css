@@ -1,0 +1,9 @@
+.banner {
+    height: 370px;
+    background-color: gray;
+    font-size: 30px;
+    font-size: 30px;
+    color: aqua;
+        -webkit-box-shadow: 0 14px 28px rgba(58, 137, 189, 0.25), 0 10px 10px rgba(69, 137, 216, 0.22);
+    box-shadow: 0 14px 28px rgba(33, 101, 165, 0.25), 0 10px 10px rgba(49, 70, 192, 0.22);
+  }
