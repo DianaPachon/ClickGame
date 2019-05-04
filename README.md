@@ -14,7 +14,7 @@ You need to click on each image once, if you click twice on the same image you l
 
 
 ## _Play with Clicky!_
-https://dianapachon.github.io/click-react/
+https://dianapachon.github.io/ClickGame/
 
 
 ## _Techonology Used_
