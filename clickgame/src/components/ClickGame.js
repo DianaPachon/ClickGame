@@ -3,7 +3,7 @@ import Navbar from './Navbar';
 import Container from './Container';
 import Footer from './Footer';
 import Container1 from './Container1';
-import images from '../Images';
+import images from '../images';
 
 class ClickGame extends Component {
   state = {
