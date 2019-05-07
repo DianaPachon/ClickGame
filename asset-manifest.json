@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ClickGame/static/css/main.a0870639.chunk.css",
+    "main.js": "/ClickGame/static/js/main.8ce47cb6.chunk.js",
+    "main.js.map": "/ClickGame/static/js/main.8ce47cb6.chunk.js.map",
+    "runtime~main.js": "/ClickGame/static/js/runtime~main.979c4616.js",
+    "runtime~main.js.map": "/ClickGame/static/js/runtime~main.979c4616.js.map",
+    "static/js/2.b35c4eba.chunk.js": "/ClickGame/static/js/2.b35c4eba.chunk.js",
+    "static/js/2.b35c4eba.chunk.js.map": "/ClickGame/static/js/2.b35c4eba.chunk.js.map",
+    "index.html": "/ClickGame/index.html",
+    "precache-manifest.24b5516da24efabc473a679110cd132f.js": "/ClickGame/precache-manifest.24b5516da24efabc473a679110cd132f.js",
+    "service-worker.js": "/ClickGame/service-worker.js",
+    "static/css/main.a0870639.chunk.css.map": "/ClickGame/static/css/main.a0870639.chunk.css.map",
+    "static/media/deer.jpg": "/ClickGame/static/media/deer.3263431d.jpg",
+    "static/media/elephant.jpg": "/ClickGame/static/media/elephant.5d69c870.jpg",
+    "static/media/flamingo.png": "/ClickGame/static/media/flamingo.fd98199c.png",
+    "static/media/giraffe.png": "/ClickGame/static/media/giraffe.fb591c02.png",
+    "static/media/koala.png": "/ClickGame/static/media/koala.166aa2ec.png",
+    "static/media/lion.png": "/ClickGame/static/media/lion.f3de4c91.png",
+    "static/media/monkey.png": "/ClickGame/static/media/monkey.05e5fcad.png",
+    "static/media/parrot.jpg": "/ClickGame/static/media/parrot.b700cfd9.jpg",
+    "static/media/zebra.png": "/ClickGame/static/media/zebra.d475c9a8.png"
+  }
+}
